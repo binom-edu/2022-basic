@@ -1,4 +1,9 @@
 # Программирование (база)
+## Занятие финальное. Задачи на сортировку, рекурсия
+## Домашка
++ https://informatics.msk.ru/mod/statements/view.php?id=11248#1
++ https://informatics.msk.ru/mod/statements/view.php?id=11221#1
+
 ## Занятие 10. Функции
 + Решение задач
 ### Домашка
